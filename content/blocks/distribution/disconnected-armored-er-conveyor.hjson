@@ -1,0 +1,17 @@
+name: Disconnected Armored ER Conveyor
+type: ArmoredConveyor
+description: The disconnected version of the armored Einstein-Rosen conveyor. Transports items almost instantly.
+category: distribution
+research: armored-er-conveyor
+#
+requirements: [
+    plastanium/5
+    thorium/5
+    metaglass/5
+    severed-fabric/1
+]
+#
+health: 500
+speed: 10
+displaySpeed: 0
+itemCapacity: 30

@@ -1,0 +1,16 @@
+name: Plated ER Conduit
+type: Conduit
+description: The plated version of the Einstein-Rosen conduit. Transports liquids almost instantly.
+category: liquid
+research: plated-conduit
+#
+requirements: [
+    thorium/10
+    metaglass/10
+    plastanium/5
+    severed-fabric/1
+]
+#
+health: 375
+liquidPressure: 10
+liquidCapacity: 60

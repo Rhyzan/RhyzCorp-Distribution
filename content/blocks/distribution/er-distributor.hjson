@@ -1,0 +1,14 @@
+name: ER Distributor
+type: Router
+description: The Einstein-Rosen distributor. Larger and higher capacity.
+category: distribution
+research: distributor
+#
+requirements: [
+    lead/20
+    copper/20
+    severed-fabric/5
+]
+#
+size: 5
+itemCapacity: 25

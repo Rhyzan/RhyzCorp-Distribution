@@ -1,0 +1,6 @@
+name: RhyzCorp-Distribution
+displayName: RhyzCorp: Distribution
+author: c-baun
+description: Upgraded distribution structures for both items and liquids.
+version: 0.1
+minGameVersion: 104

@@ -1,0 +1,19 @@
+name: ER Liquid Wormhole
+type: LiquidBridge
+description: The Einstein-Rosen liquid wormhole. Along with the item wormhole, AI has found a way to transport liquids over extremely large distances as well. Requires massive amounts of power.
+category: liquid
+research: phase-conduit
+#
+requirements: [
+    severed-fabric/10
+    silicon/70
+    metaglass/200
+    titanium/100
+]
+consumes: {
+    power: 6
+}
+#
+range: 675
+hasPower: true
+canOverdrive: false

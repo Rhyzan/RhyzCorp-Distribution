@@ -1,0 +1,14 @@
+name: Disconnected ER Conduit
+type: ArmoredConduit
+description: The disconnected version of the Einstein-Rosen conduit. Transports liquids almost instantly.
+category: liquid
+research: er-conduit
+#
+requirements: [
+    metaglass/10
+    severed-fabric/1
+]
+#
+health: 75
+liquidPressure: 10
+liquidCapacity: 50

@@ -1,0 +1,6 @@
+name: Severed Fabric
+type: material
+description: Severed phase fabric. Used in Einstein-Rosen distribution blocks.
+#
+radioactivity: 0.8
+cost: 2

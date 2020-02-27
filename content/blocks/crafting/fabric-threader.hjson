@@ -1,0 +1,25 @@
+name: Farbic Threader
+type: GenericSmelter
+description: Severs phase fabric to create a hole in space-time.
+category: crafting
+research: phase-weaver
+#
+requirements: [
+    surge-alloy/130
+    lead/240
+    thorium/150
+]
+consumes: {
+    power: 10
+    items: {
+        items: [
+            phase-fabric/3
+        ]
+    }
+}
+outputItem: severed-fabric/1
+#
+hasPower: true
+size: 2
+craftTime: 120
+craftEffect: smeltsmoke

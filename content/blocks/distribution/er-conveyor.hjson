@@ -1,0 +1,17 @@
+name: ER Conveyor
+type: Conveyor
+description: The Einstein-Rosen conveyor. Transports items almost instantly.
+category: distribution
+research: titanium-conveyor
+#
+requirements: [
+    copper/10
+    lead/10
+    severed-fabric/1
+]
+#
+health: 100
+speed: 10
+displaySpeed: 0
+itemCapacity: 20
+# ^ not working?

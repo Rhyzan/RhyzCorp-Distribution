@@ -1,0 +1,14 @@
+name: ER Conduit
+type: Conduit
+description: The Einstein-Rosen conduit. Transports liquids almost instantly.
+category: liquid
+research: conduit
+#
+requirements: [
+    metaglass/10
+    severed-fabric/1
+]
+#
+health: 75
+liquidPressure: 10
+liquidCapacity: 50

@@ -1,0 +1,13 @@
+name: ER Junction
+type: Junction
+description: The Einstein-Rosen junction. Faster and higher capacity.
+category: distribution
+research: junction
+#
+requirements: [
+    copper/20
+    severed-fabric/2
+]
+#
+speed: 1
+capacity: 25

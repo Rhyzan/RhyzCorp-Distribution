@@ -1,0 +1,16 @@
+name: Disconnected Plated ER Conduit
+type: ArmoredConduit
+description: The disconnected version of the plated Einstein-Rosen conduit. Transports liquids almost instantly.
+category: liquid
+research: plated-er-conduit
+#
+requirements: [
+    thorium/10
+    metaglass/10
+    plastanium/5
+    severed-fabric/1
+]
+#
+health: 375
+liquidPressure: 10
+liquidCapacity: 60

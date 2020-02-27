@@ -1,0 +1,15 @@
+name: ER Bridge
+type: BufferedItemBridge
+description: The Einstein-Rosen bridge. Faster and has more range.
+category: distribution
+research: bridge-conveyor
+#
+requirements: [
+    lead/20
+    copper/20
+    severed-fabric/5
+]
+#
+range: 10
+transportTime: 1
+itemCapacity: 25

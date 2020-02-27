@@ -1,0 +1,14 @@
+name: ER Bridge Conduit
+type: LiquidExtendingBridge
+description: The Einstein-Rosen bridge conduit. Better range and consumes no power.
+category: liquid
+research: bridge-conduit
+#
+requirements: [
+    graphite/20
+    metaglass/40
+    severed-fabric/3
+]
+#
+range: 12
+hasPower: false

@@ -1,0 +1,33 @@
+name: ER Wormhole
+type: MassDriver
+description: The Einstein-Rosen Wormhole. After centuries of research, AI has finally developed the ultimate item transportation machine. Requires massive amounts of power.
+category: distribution
+research: mass-driver
+#
+requirements: [
+    titanium/250
+    silicon/150
+    lead/250
+    thorium/100
+    severed-fabric/50
+]
+consumes: {
+    power: 20
+}
+#
+rotateSpeed: 1000
+reloadTime: 8
+minDistribute: 1
+knockback: 0
+shake: 0
+size: 1
+range: 675
+itemCapacity: 5
+translation: 1000
+#
+shootEffect: none
+smokeEffect: none
+receiveEffect: none
+hitEffect: none
+despawnEffect: none
+# ^ probably doesn't do anything
