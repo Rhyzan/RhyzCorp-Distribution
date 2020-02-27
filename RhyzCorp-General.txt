@@ -8,10 +8,10 @@
 ## RhyzCorp: General
 
 ### Items
-1) Severed Fabric: for item & liquid distribution [FUNC]
-2) Nanite: for mechs & upgrades | silicon & graphene [CODED]
-3) Graphene (material): ? | copper, argon liquid [CODED]
-4) Concrete: for production structures | water, graphite [CODED]
+1) Severed Fabric: for item & liquid distribution [Distribution | Sprites]
+2) Nanite: for mechs & upgrades | silicon & graphene
+3) Graphene (material): ? | copper, argon liquid
+4) Concrete: for production structures | water, graphite
 
 ### Liquids
 
@@ -23,22 +23,22 @@
 3) SG Oil Refinery
 
 ### Distribution
-1) ER Wormhole [FUNC]
-2) ER Conveyor: speed/1? | itemCapacity/20 [FUNC]
-3) Disconnected ER Conveyor [FUNC]
-4) ER Bridge [FUNC]
-5) ER Distributor [FUNC]
-6) ER Junction [FUNC]
-7) Armored ER Conveyor: 5x health [FUNC]
-8) Armored Disconnected ER Conveyor [FUNC]
+1) ER Wormhole [Distribution | Sprites]
+2) ER Conveyor: speed/1? | itemCapacity/20 [Distribution | Sprites]
+3) Disconnected ER Conveyor [Distribution | Sprites]
+4) ER Bridge [Distribution | Sprites]
+5) ER Distributor [Distribution | Sprites]
+6) ER Junction [Distribution | Sprites]
+7) Armored ER Conveyor: 5x health [Distribution | Sprites]
+8) Armored Disconnected ER Conveyor [Distribution | Sprites]
 
 ### Liquid
-1) ER Conduit: liquidPressure/5 | liquidCapacity/50 [FUNC]
-2) Disconnected ER Conduit [FUNC]
-3) Plated ER Conduit: 5x health [FUNC]
-4) Plated Disconnected ER Conduit [FUNC]
-5) ER Bridge Conduit [DONE]
-6) ER Liquid Wormhole [DONE]
+1) ER Conduit: liquidPressure/5 | liquidCapacity/50 [Distribution | Sprites]
+2) Disconnected ER Conduit [Distribution | Sprites]
+3) Plated ER Conduit: 5x health [Distribution | Sprites]
+4) Plated Disconnected ER Conduit [Distribution | Sprites]
+5) ER Bridge Conduit [Distribution | Sprites]
+6) ER Liquid Wormhole [Distribution | Sprites]
 
 ### Power
 
@@ -47,7 +47,7 @@
 2) {Mend Projector}
 
 ### Crafting
-1) Fabric Threader: 1 severed fabric for 3 phase fabric | 5 secs [FUNC]
+1) Fabric Threader: 1 severed fabric for 3 phase fabric | 5 secs [Distribution | Sprites]
 2) GB Nanite Factory: 5 nanite for 10 silicon | 15 secs
 
 ### Units
