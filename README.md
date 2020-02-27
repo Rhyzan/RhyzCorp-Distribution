@@ -4,6 +4,7 @@
 ## Issues
 - ER Bridge Conduit: bridge sprite disappears once the input block is not on screen
 - ER Bridge: theres a bit of delay
+- No sprites! If you would like to volunteer as tribute regardless of your expertise in spriting, ping me @Rhyzzz#0422 on Discord. Thank you!
 
 ## To-do
 
