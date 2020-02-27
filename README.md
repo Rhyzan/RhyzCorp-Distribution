@@ -1,3 +1,6 @@
+# RhyzCorp: Distribution
+[A Mindustry Mod] Upgraded distribution structures for both items and liquids.
+
 ## Issues
 - ER Bridge Conduit: bridge sprite disappears once the input block is not on screen
 - ER Bridge: theres a bit of delay
