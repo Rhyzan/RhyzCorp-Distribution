@@ -2,5 +2,5 @@ name: RhyzCorp-LogisticsInc
 displayName: "[#ff0000]Rhyz[#af0404]Corp[#ffffff]: [#6390c4]Einstein[#cfa170]-Rosen [#ffffff]Logistics Inc."
 author: "[#ff0000]Rhyzan"
 description: Upgraded distribution structures for both items and liquids.
-version: 0.1
+version: 1.0
 minGameVersion: 104
