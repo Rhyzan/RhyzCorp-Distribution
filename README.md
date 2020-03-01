@@ -1,6 +1,10 @@
 # RhyzCorp: Einstein-Rosen Logistics Inc.
 [A Mindustry Mod] Upgraded distribution structures for both items and liquids.
 
+![Distribution](previews/distribution.png)
+
+![Liquid](previews/liquid.png)
+
 ## Issues
 - ER Bridge Conduit: bridge sprite disappears once the input block is not on screen
 - ER Bridge: theres a bit of delay
