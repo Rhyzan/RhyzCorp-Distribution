@@ -1,10 +1,11 @@
-# RhyzCorp: Distribution
+# RhyzCorp: Einstein-Rosen Logistics Inc.
 [A Mindustry Mod] Upgraded distribution structures for both items and liquids.
 
 ## Issues
 - ER Bridge Conduit: bridge sprite disappears once the input block is not on screen
 - ER Bridge: theres a bit of delay
-- No sprites! If you would like to volunteer as tribute regardless of your expertise in spriting, ping me @Rhyzzz#0422 on Discord. Thank you!
+- Disconnected conveyors & conduit sprites have a bit of fuzz on the outside
+- Fabric threader needs implementation of phase-weaver effect
 
 ## To-do
 
@@ -14,25 +15,25 @@
 ### RhyzCorp: Distribution
 
 #### Items
-1) Severed Fabric: for item & liquid distribution [FUNC]
+1) Severed Fabric [S!]
 
 #### Distribution
-1) ER Wormhole [FUNC/!S]
-2) ER Conveyor: speed/1? | itemCapacity/20 [FUNC/!S]
-3) Disconnected ER Conveyor [FUNC/!S]
-4) ER Bridge [FUNC/!S]
-5) ER Distributor [FUNC/!S] [equal input = equal output]
-6) ER Junction [FUNC/!S]
-7) Armored ER Conveyor: 5x health [FUNC/!S]
-8) Armored Disconnected ER Conveyor [FUNC/!S]
+1) ER Wormhole
+2) ER Conveyor
+3) Disconnected ER Conveyor
+4) ER Bridge
+5) ER Distributor [equal input = equal output]
+6) ER Junction
+7) Armored ER Conveyor
+8) Armored Disconnected ER Conveyor
 
 #### Liquid
-1) ER Conduit: liquidPressure/5 | liquidCapacity/50 [FUNC/!S]
-2) Disconnected ER Conduit [FUNC/!S] [disconnected conduits cant take direct input from l-junctions]
-3) Plated ER Conduit: 5x health [FUNC/!S]
-4) Plated Disconnected ER Conduit [FUNC/!S]
-5) ER Bridge Conduit [FUNC/!S]
-6) ER Liquid Wormhole [FUNC/!S]
+1) ER Conduit
+2) Disconnected ER Conduit [disconnected conduits cant take direct input from l-junctions]
+3) Plated ER Conduit
+4) Plated Disconnected ER Conduit
+5) ER Bridge Conduit
+6) ER Liquid Wormhole
 
 #### Crafting
-1) Fabric Threader: 1 severed fabric for 3 phase fabric | 5 secs [FUNC/S]
+1) Fabric Threader
