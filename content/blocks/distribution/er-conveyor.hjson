@@ -1,6 +1,6 @@
 name: ER Conveyor
 type: Conveyor
-description: The Einstein-Rosen conveyor. Transports items almost instantly.
+description: The Einstein-Rosen conveyor. Transports items extremely quickly.
 category: distribution
 research: titanium-conveyor
 #

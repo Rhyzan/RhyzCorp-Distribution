@@ -1,6 +1,6 @@
 name: Armored ER Conveyor
 type: Conveyor
-description: The armored version of the Einstein-Rosen conveyor. Transports items almost instantly.
+description: The armored version of the Einstein-Rosen conveyor. Transports items extremely quickly.
 category: distribution
 research: armored-conveyor
 #

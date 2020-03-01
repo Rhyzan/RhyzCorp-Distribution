@@ -1,6 +1,6 @@
 name: Disconnected ER Conveyor
 type: ArmoredConveyor
-description: The disconnected version of the Einstein-Rosen conveyor. Transports items almost instantly.
+description: The disconnected version of the Einstein-Rosen conveyor. Transports items extremely quickly.
 category: distribution
 research: er-conveyor
 #
